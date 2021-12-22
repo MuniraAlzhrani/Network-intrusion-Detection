@@ -121,6 +121,7 @@ The work will be done through Jupyter notebook.
 Analysis of Different Classification algorithms for Network Intrusion Detection to accurately predict ' Attack' if the fault is an attack or a normal one.
 
 ## Authors 
+
 - [@elaftalal](https://github.com/elaftalal)
 - [@MuniraAlzhrani](https://github.com/MuniraAlzhrani)
 - [@sole3](https://github.com/sole3)
